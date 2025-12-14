@@ -12,13 +12,13 @@ Practice GPU programming with skeleton files. Fill in the TODOs!
 - [ ] **Day 6**: Parallel Reduction & Atomics
 - [ ] **Day 7**: CUDA Streams & Pipelines
 
-## 📁 Structure
+## Structure
 
 Each day has two folders:
 - **`cu/`** - CUDA C++ files for [LeetGPU](https://leetgpu.com/)
 - **`py/`** - Python files for local testing with Numba CUDA simulator
 
-## ⚡ Quick Setup (Python/Local)
+## Quick Setup (Python/Local)
 
 ```powershell
 pip install numba numpy
@@ -26,7 +26,7 @@ $env:NUMBA_ENABLE_CUDASIM = "1"
 python day2/py/vector_add.py
 ```
 
-## 📚 Curriculum
+## Curriculum
 
 | Day | Topic | Problems |
 |-----|-------|----------|
@@ -38,18 +38,18 @@ python day2/py/vector_add.py
 | **Day 6** | Reduction | `parallel_reduction`, `histogram` |
 | **Day 7** | Streams | `streams`, `pipeline` |
 
-## 🎯 How to Use
+## How to Use
 
 1. Read the **problem statement** at the top of each file
 2. Fill in the **TODO** sections
 3. Test locally with Python (simulator)
 4. Submit CUDA version to LeetGPU
 
-## 📖 Concepts
+## Concepts
 
 Each `dayN/` folder has a `concepts.md` with detailed explanations.
 
-## 🔥 Advanced Topics
+## Advanced Topics
 
 See `nextTopics/` for job-ready skills:
 - TensorRT, Distributed GPU, LLM Inference, Custom Kernels, Profiling
