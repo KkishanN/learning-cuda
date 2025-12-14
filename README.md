@@ -1,4 +1,4 @@
-# 🚀 Learning CUDA - 7-Day GPU Programming Curriculum
+# Learning CUDA - 7-Day GPU Programming Curriculum
 
 Practice GPU programming with skeleton files. Fill in the TODOs!
 
