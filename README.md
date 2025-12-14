@@ -2,7 +2,7 @@
 
 Practice GPU programming with skeleton files. Fill in the TODOs!
 
-## 📊 Progress
+## Progress
 
 - [x] **Day 1**: CUDA Basics (vector-add, matrix-add, relu)
 - [ ] **Day 2**: Threading & Indexing
